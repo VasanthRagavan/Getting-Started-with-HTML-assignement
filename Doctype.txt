@@ -1,0 +1,1 @@
+basically <!DOCTYPE html> is used to show the browser html is used  and the verision of it used.
