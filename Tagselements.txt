@@ -1,0 +1,3 @@
+in the above hrbr file we have many HTML tags and elements.HTML Tags are used to hold the HTML elements.They are of two types opening and closing tag.
+Whereas Elements contain contents of page with a opening and closing tag,
+In the hrbr code the <head>,</head>,<html>,</html> etc are tags whereas <pr> tag with contents in it about football and closing</pr> tag is HTML element
